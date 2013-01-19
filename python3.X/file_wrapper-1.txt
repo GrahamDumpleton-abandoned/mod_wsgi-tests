@@ -1,0 +1,10 @@
+Browser should display:
+
+  abcdefghijklmnopqrstuvwxyz
+
+Raw HTTP response should be:
+
+  HTTP/1.1 200 OK
+  Content-Length: 26
+
+  abcdefghijklmnopqrstuvwxyz

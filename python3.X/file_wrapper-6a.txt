@@ -1,0 +1,7 @@
+Browser should display:
+
+  500 Internal Server Error
+
+Error in Apache error log should be:
+
+  ValueError: I/O operation on closed file
